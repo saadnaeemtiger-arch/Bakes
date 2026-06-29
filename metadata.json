@@ -1,0 +1,6 @@
+{
+  "name": "MomBakes9",
+  "description": "A premium homemade bakery website for custom cakes, cupcakes, pastries, and desserts, featuring an interactive AI Cake Consultant, custom order builder, and a visual gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
